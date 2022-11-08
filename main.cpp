@@ -3,20 +3,12 @@ using namespace std;
 
 int main()
 {
-    int iterations;
-    iterations=0;
-    int number;
-    number = 2;
-    bool done;
-    done = false;
-    while (!done)
+    int n;
+    n = 2;
+    while (n < 15)
     {
-        number = number * 2;
-        if(number > 64)
-            done = true;
-        iterations ++;
-        cout << " " << number ;
-        cout << "\niterations: " << iterations;
+        n = n + 2;
+        cout << n << " ";
     }
 
     return 0;
