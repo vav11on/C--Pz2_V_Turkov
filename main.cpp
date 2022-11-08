@@ -5,7 +5,7 @@ int main()
 {
     int n;
     n = 2;
-    while (n < 15)
+    while (n < 15) //
     {
         n = n + 2;
         cout << n << " ";
