@@ -2,12 +2,13 @@
 using namespace std;
 
 int main() {
-    int number;
-    number = 1;
-            while (number < 11)
+    int count;
+    count = 1;
+            while (count < 21)
+
             {
-                cout << number << endl;
-                number++;
+                cout << count << " ";
+                count ++;
             }
     return 0;
 }
