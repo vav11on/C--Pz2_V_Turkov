@@ -6,8 +6,8 @@ int main() {
     number = 1;
             while (number < 11)
             {
-                number++;
                 cout << number << endl;
+                number++;
             }
     return 0;
 }
