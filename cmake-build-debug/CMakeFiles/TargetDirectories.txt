@@ -1,0 +1,3 @@
+E:/Projects C++/C--Pz2_V_Turkov/cmake-build-debug/CMakeFiles/C__Pz2_V_Turkov.dir
+E:/Projects C++/C--Pz2_V_Turkov/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Projects C++/C--Pz2_V_Turkov/cmake-build-debug/CMakeFiles/rebuild_cache.dir
